@@ -24,7 +24,7 @@ CSS
 
 Clone the repository:
 
-git clone https://github.com/yourusername/todo-tracker.git
+git clone https://github.com/ARbayung/TODO.git
 
 Navigate to the project directory:
 
