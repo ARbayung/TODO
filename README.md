@@ -1,4 +1,5 @@
 # TODO Tracker App
+Deployed application: https://arbayung.github.io/TODO/
 
 A simple JavaScript-based TODO application that helps users track their tasks efficiently. The application allows users to add tasks, mark them as complete, and delete them when necessary.
 
