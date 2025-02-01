@@ -30,7 +30,7 @@ Navigate to the project directory:
 
 cd todo-tracker
 
-Open index.html in your browser.
+Open TODO.html in your browser.
 
 # Usage
 
